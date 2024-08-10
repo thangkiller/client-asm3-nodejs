@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/deploy-github/static/css/main.398f6d42.css",
+    "main.js": "/deploy-github/static/js/main.155c7ea4.js",
+    "static/js/422.a71c0b97.chunk.js": "/deploy-github/static/js/422.a71c0b97.chunk.js",
+    "static/media/product_2.png": "/deploy-github/static/media/product_2.1bc52f8922d488cead68.png",
+    "static/media/product_3.png": "/deploy-github/static/media/product_3.48eda5293a6f605e73f7.png",
+    "static/media/product_4.png": "/deploy-github/static/media/product_4.6d83c6007d5109b357a8.png",
+    "static/media/product_1.png": "/deploy-github/static/media/product_1.b24c110a233df54143c8.png",
+    "static/media/product_5.png": "/deploy-github/static/media/product_5.b963def7555b7544d220.png",
+    "static/media/banner1.jpg": "/deploy-github/static/media/banner1.4a22881c941f7b645fa8.jpg",
+    "index.html": "/deploy-github/index.html",
+    "main.398f6d42.css.map": "/deploy-github/static/css/main.398f6d42.css.map",
+    "main.155c7ea4.js.map": "/deploy-github/static/js/main.155c7ea4.js.map",
+    "422.a71c0b97.chunk.js.map": "/deploy-github/static/js/422.a71c0b97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.398f6d42.css",
+    "static/js/main.155c7ea4.js"
+  ]
+}
